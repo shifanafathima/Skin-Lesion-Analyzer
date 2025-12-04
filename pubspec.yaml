@@ -1,0 +1,22 @@
+name: skin_analyser
+description: "AI Skin Analyzer"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  google_fonts: ^4.0.3
+  curved_navigation_bar: ^1.0.3
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
