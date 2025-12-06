@@ -6,6 +6,7 @@ class AppColors {
   static const Color secondary = Color(0xFF4A44C6);
   static const Color accent = Color(0xFFFF6584);
   static const Color light = Color(0xFFF8F9FA);
+  static const Color dark = Color(0xFF1A1A1A);
   
   // Skin Type Colors
   static const Color normal = Color(0xFFFFF3E0);
